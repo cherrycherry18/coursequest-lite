@@ -1,0 +1,7 @@
+course_id,course_name,department,level,delivery_mode,credits,duration_weeks,rating,tuition_fee_inr,year_offered
+CS101,Intro to Computer Science,Computer Science,UG,online,4,12,4.5,30000,2025
+CS501,Advanced Algorithms,Computer Science,PG,offline,3,10,4.7,60000,2025
+ME201,Thermodynamics,Mechanical,UG,hybrid,3,12,4.2,45000,2025
+EC301,Microeconomics,Economics,UG,offline,3,8,4.0,35000,2024
+DS601,Data Science Foundations,Data Science,PG,online,4,10,4.6,55000,2025
+
