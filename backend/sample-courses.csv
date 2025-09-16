@@ -1,0 +1,35 @@
+course_id,course_name,department,level,delivery_mode,credits,duration_weeks,rating,tuition_fee_inr,year_offered
+CS101,Intro to Computer Science,Computer Science,UG,online,4,12,4.5,30000,2025
+CS201,Data Structures and Algorithms,Computer Science,UG,offline,3,12,4.2,40000,2025
+CS301,Operating Systems,Computer Science,UG,hybrid,4,12,4.1,45000,2024
+CS401,Database Management Systems,Computer Science,UG,online,3,10,4.3,35000,2025
+CS501,Advanced Algorithms,Computer Science,PG,offline,3,10,4.7,60000,2025
+CS601,Machine Learning,Computer Science,PG,online,4,10,4.6,55000,2025
+CS701,Deep Learning,Computer Science,PG,hybrid,4,12,4.8,65000,2025
+CS801,Computer Vision,Computer Science,PG,online,3,8,4.4,58000,2025
+DS601,Data Science Foundations,Data Science,PG,online,4,10,4.6,55000,2025
+DS701,Big Data Analytics,Data Science,PG,hybrid,4,12,4.5,60000,2025
+AI701,Introduction to AI,Artificial Intelligence,PG,online,3,8,4.4,58000,2025
+AI801,Natural Language Processing,Artificial Intelligence,PG,online,4,10,4.7,62000,2025
+ME201,Thermodynamics,Mechanical,UG,hybrid,3,12,4.2,45000,2025
+ME301,Heat Transfer,Mechanical,UG,offline,3,10,4.0,42000,2024
+ME501,Advanced Manufacturing,Mechanical,PG,offline,4,12,4.3,55000,2025
+EE210,Circuits and Electronics,Electrical,UG,offline,3,10,4.0,38000,2024
+EE310,Power Systems,Electrical,UG,hybrid,4,12,4.1,45000,2025
+EE501,Digital Signal Processing,Electrical,PG,online,3,8,4.4,52000,2025
+EC301,Microeconomics,Economics,UG,offline,3,8,4.0,35000,2024
+EC401,Macroeconomics,Economics,UG,online,3,8,4.1,32000,2025
+EC601,International Economics,Economics,PG,hybrid,3,10,4.2,48000,2025
+MG301,Principles of Management,Management,UG,offline,3,10,4.0,40000,2024
+MG501,Operations Management,Management,PG,online,3,8,4.3,52000,2025
+MG601,Strategic Management,Management,PG,hybrid,3,10,4.4,58000,2025
+MT201,Calculus I,Mathematics,UG,offline,4,12,4.1,35000,2024
+MT301,Linear Algebra,Mathematics,UG,online,3,10,4.0,30000,2025
+MT501,Advanced Statistics,Mathematics,PG,hybrid,4,12,4.3,50000,2025
+PH201,Physics I,Physics,UG,offline,4,12,4.0,38000,2024
+PH301,Quantum Mechanics,Physics,UG,hybrid,4,12,4.2,45000,2025
+CH201,Organic Chemistry,Chemistry,UG,offline,4,12,4.1,40000,2024
+CH301,Biochemistry,Chemistry,UG,hybrid,3,10,4.0,42000,2025
+BI201,Cell Biology,Biology,UG,offline,4,12,4.0,38000,2024
+BI301,Genetics,Biology,UG,hybrid,3,10,4.1,40000,2025
+BI501,Molecular Biology,Biology,PG,online,4,12,4.3,55000,2025
